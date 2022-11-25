@@ -1,0 +1,4 @@
+Marko >>> Mathematics 8, Programming basics 9, Computer networks 9, Statistics 7
+Jovan >>> Mathematics 10, Programming basics 9, Computer networks 9, Statistics 10
+Stefan >>> Mathematics 7, Programming basics 8, Computer networks 6, Statistics 6
+Ivana >>> Mathematics 10, Programming basics 10, Computer networks 9, Statistics 9

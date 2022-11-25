@@ -1,0 +1,13 @@
+U fajlu stud.txt nalaze se podaci o studentima i predmetima koje su polozili.
+ Primer:
+    ==> Marko >>> Mathematics 8, Programming basics 9, Computer networks 9, Statistics 7
+
+Svakog studenta potrebno je ispisati u tabeli pod kolonama:
+ - Ime studenta
+ - Polozeni predmeti
+ - Polozeni predmeti sa ocenama
+ - Prosecna ocena
+
+Na kraju, potrebno je u fajl out.txt smestiti odgovarajuci rezultat:
+ Primer:
+    ==> Marko >>> Mathematics 8, Programming basics 9, Computer networks 9, Statistics 7 >>> Average: 8.25

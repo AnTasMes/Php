@@ -1,0 +1,4 @@
+Marko >>> Mathematics 8, Programming basics 9, Computer networks 9, Statistics 7 >>> Average: 8.25
+Jovan >>> Mathematics  10, Programming basics 9, Computer networks 9, Statistics  10 >>> Average: 9.5
+Stefan >>> Mathematics 7, Programming basics 8, Computer networks 6, Statistics 6 >>> Average: 6.75
+Ivana >>> Mathematics  10, Programming basics  10, Computer networks 9, Statistics 9 >>> Average: 9.5
